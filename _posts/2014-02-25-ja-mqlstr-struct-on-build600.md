@@ -22,6 +22,6 @@ struct MqlStr
 MT4 build 600 以降についている、 ``<INSTALL_PATH>/MQL4/Scripts/Examples/DLL/DLLSample.cpp`` にも
 MqlStr 構造体は定義されているのですが、これは古いので気を付けてください。
 
-上記の構造体は、 mt4R の build 600 対応時に自分で調査してあたりをつけたものです。
+上記の構造体は、 [mt4R の build 600 対応時に自分で調査してあたりをつけた](https://github.com/micclly/mt4R/commit/2a604aaf9fef2b054b2d4259d59072a6d9e31215#diff-5) ものです。
 
 MetaQuotes 公式のものではないので、その点もご留意ください（[フォーラム](http://forum.mql4.com/61293)で質問中です）。
