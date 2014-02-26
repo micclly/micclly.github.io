@@ -8,10 +8,11 @@ tags: [mt4,tools,english]
 {% include JB/setup %}
 
 I've written tiny VBScript to create symlinks to MT4 (build 600 and later) or MT5.
+This VBScript only can be run on Windows Vista and later.
 
 You can get from [GitHub](https://github.com/micclly/mt4-tools/blob/master/make-symlinks-to-terminal-data-path.vbs).
 
-Both MetaTrader 4 (build 600 and later) and 5 stores application data (including experts, scripts)
+Both MetaTrader 4 (build 600 and later) and 5 stores application data (including experts, indicators and scripts)
 to ``%APPDATA%\MetaQuotes\Terminal\<UNIQUEID>``.
 
 It is so painful to open the directory if using multiple terminals.

@@ -7,7 +7,8 @@ tags: [mt4,tools,japanese]
 ---
 {% include JB/setup %}
 
-MT4 (build 600 とそれ以降) および MT5 の Terminal Data Path へのシンボリックリンクを作成する VBScript を作成しました（Windows Vista 以降で利用可能）。
+MT4 (build 600 とそれ以降) および MT5 の Terminal Data Path へのシンボリックリンクを作成する VBScript を作成しました。
+Windows Vista 以降で利用可能です。
 
 [GitHub](https://github.com/micclly/mt4-tools/blob/master/make-symlinks-to-terminal-data-path.vbs) からダウンロードできます。
 
