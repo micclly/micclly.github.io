@@ -7,7 +7,7 @@ tags: [mt4,tools,english]
 ---
 {% include JB/setup %}
 
-I've written tiny VBScript to create symbolic links to MT4 (build 600 and later) or MT5 data folder.
+I've written tiny VBScript to create symbolic links to the data folder of MT4 (build 600 and later) and MT5.
 This VBScript only can be run on Windows Vista and later.
 
 You can get from [GitHub](https://github.com/micclly/mt4-tools/blob/master/make-symlinks-to-terminal-data-path.vbs).
