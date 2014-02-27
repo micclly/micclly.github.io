@@ -23,3 +23,8 @@ DLL と MQL クラスライブラリを試しに作ってみました。
 
 使い方は [README.md](https://github.com/micclly/mt4-script-caller/blob/master/README.md) をよくお読みくださいませ。
 
+### 追記1
+
+この挙動の変更は、 build 600 からということではなく、 [こちらによると](http://blog.livedoor.jp/fafafa_1616/archives/52253420.html) build 509かその近辺のビルドから変わっているようです。
+
+お詫びして訂正いたします。

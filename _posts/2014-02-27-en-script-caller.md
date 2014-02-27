@@ -18,3 +18,7 @@ Now wParam is 0x11, and lParam is the ordinal in the Navigator tree view, which 
 I've created a DLL and it's MQL class library. You can get from [GitHub](https://github.com/micclly/mt4-script-caller) (zip is from [here](https://github.com/micclly/mt4-script-caller/releases)).
 
 Please read carefully [README.md](https://github.com/micclly/mt4-script-caller/blob/master/README.md).
+
+### Update 1
+
+This parameter change is not from build 600 but from build 509 (or near of it), maybe. I'm sorry for misexplanation.
